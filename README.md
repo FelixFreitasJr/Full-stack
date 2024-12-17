@@ -5,7 +5,7 @@ Este repositório contém os meus projetos Full-stack, que abrangem tanto o dese
 ## Projetos
 - [Projeto Full-stack 1](https://github.com/felixfreitasjr/projeto-fullstack1)
 - [Projeto Full-stack 2](https://github.com/felixfreitasjr/projeto-fullstack2)
-- [Projeto VBA 1](https://github.com/felixfreitasjr/projeto-vba1)
+- [CONTROLE-PFF-VBA (VBA 1)](https://github.com/FelixFreitasJr/CONTROLE-PFF-VBA)
 
 ## Tecnologias Utilizadas
 - HTML, CSS, JavaScript
